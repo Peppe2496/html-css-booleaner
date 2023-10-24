@@ -9,13 +9,16 @@ header{
     background-color: rgb(149, 213, 250);
     width: 100%;
     
-}
+    }
+
 
 #logo{
     width: 200px;
-    margin-left: 20px;
-    margin-top: 10px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 30px;
     margin-bottom: 40px;
+    
 }
 
 h1{
@@ -93,6 +96,12 @@ td, th {
   #p4{
     text-align: center;
     color: white;
+  }
+
+  main{
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
   }
 
  
