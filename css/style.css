@@ -16,3 +16,23 @@ header{
     margin-top: 10px;
     margin-bottom: 40px;
 }
+
+h1{
+    margin-top: 40px;
+    margin-left: 20px;
+}
+
+#p1{
+    margin-top: 5px;
+    margin-left: 20px;
+    color: gray;
+}
+
+span{
+    color: blue;
+}
+
+#img1{
+    margin-top: 20px;
+    margin-left: 20px;
+}
