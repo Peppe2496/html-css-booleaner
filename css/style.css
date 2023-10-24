@@ -8,6 +8,7 @@
 header{
     background-color: rgb(149, 213, 250);
     width: 100%;
+    
 }
 
 #logo{
@@ -93,3 +94,5 @@ td, th {
     text-align: center;
     color: white;
   }
+
+ 
