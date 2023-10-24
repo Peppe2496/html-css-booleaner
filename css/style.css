@@ -36,3 +36,60 @@ span{
     margin-top: 20px;
     margin-left: 20px;
 }
+
+#p2{
+    margin-left: 20px;
+}
+
+#p3{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+#span2{
+    background-color: yellow;
+}
+
+ul{
+    margin-left: 35px;
+    margin-top: 20px;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 10px;
+    
+  }
+
+  table{
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+  }
+
+  #tr1{
+    background-color: rgb(70, 151, 243);
+    color: white;
+  }
+
+  tr{
+    background-color: rgb(194, 194, 194);
+    
+  }
+
+  #tr2{
+    background-color: beige;
+    
+  }
+
+  footer{
+    background-color: rgb(59, 59, 131);
+    padding: 10px;
+  }
+
+  #p4{
+    text-align: center;
+    color: white;
+  }
